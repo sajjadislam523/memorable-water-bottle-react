@@ -1,8 +1,16 @@
-# React + Vite
+# Memorable Water Bottle Gallery using React.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a web application based on React. Data has been extracted from the local storage. It demonstrate the following react key components.
 
-Currently, two official plugins are available:
+-   **Components**: Modular and reusable code blocks.
+-   **JSX**: Syntax for writing HTML within Javascript.
+-   **Props**: Passing data between components.
+-   **State**: Handling dynamic data within components.
+-   **Event Handling**: Managing user interactions.
+-   **useEffect**: Hook for handling side effects like data fetching.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Also it has some other features like storing cart data in the local storage and button for adding and removing data from the cart. This project fetches the data and display it in a user-friendly interface.
+
+## Live Preview
+
+[Live Preview](https://vercel.live/link/memorable-water-bottle-react-phi.vercel.app?via=project-dashboard-alias-list&p=1&page=/)
